@@ -1,5 +1,11 @@
 # RemoteComposeServer
 
+<img width="1500" height="750" alt="Remote Compose" src="https://github.com/user-attachments/assets/135ee93d-9164-42b9-bfc3-dbd79505a729" />
+
+
+- Medium Article
+- [Remote Compose Client](https://github.com/x86xFX/RemoteComposeClient)
+
 This project was created using the [Ktor Project Generator](https://start.ktor.io).
 
 Here are some useful links to get you started:
